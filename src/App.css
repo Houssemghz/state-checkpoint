@@ -1,0 +1,32 @@
+.box {
+  margin: auto;
+  text-align: center;
+  border: solid black 1px;
+  width: 300px;
+  margin-top: 50px;
+  background-color: rgba(245, 246, 247, 0.836);
+  border-radius: 10px;
+  box-shadow: gray 1px 1px 10px 1px;
+}
+.button {
+  margin: auto;
+  text-align: center;
+  margin-top: 20px;
+}
+.butt {
+  border: solid black 1px;
+  background-color: rgba(170, 174, 177, 0.459);
+  border-radius: 10px;
+  box-shadow: gray 1px 1px 10px 1px;
+  width: 50px;
+}
+.clock {
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  border: solid rgb(173, 171, 171) 2px;
+  box-shadow: rgb(160, 156, 156) 1px 1px 10px 1px;
+  width: 50px;
+  margin: auto;
+  text-align: center;
+}
